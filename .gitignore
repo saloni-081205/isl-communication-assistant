@@ -5,6 +5,8 @@
 backend/.env
 frontend/.env
 ai-service-backup/
+dynamic-module-git-backup/
+ai-service-git-backup/
 
 # Node.js
 node_modules/
